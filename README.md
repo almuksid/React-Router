@@ -1,3 +1,12 @@
+# Added file and folder
+    >components
+      -Nav.jsx
+    >pages
+      -About.jsx
+      -Home.jsx
+      -Product.jsx
+      -Root.jsx
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -1,16 +1,15 @@
-# Added file and folder
-src/
-│
-├── components/
-│   └── Nav.jsx
-│
-├── pages/
-│   ├── About.jsx
-│   ├── Home.jsx
-│   ├── Product.jsx
-│   └── Root.jsx
-│
-└── App.jsx
+## 🔄 Latest Project Update — 5 October 2025
+
+### 📂 Added Folders
+- `components/`
+- `pages/`
+
+### 📄 Added Files
+- `components/Nav.jsx`
+- `pages/Home.jsx`
+- `pages/About.jsx`
+- `pages/Product.jsx`
+- `pages/Root.jsx`
 
 # React + Vite
 

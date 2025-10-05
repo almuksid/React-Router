@@ -1,11 +1,16 @@
 # Added file and folder
-    >components
-      -Nav.jsx
-    >pages
-      -About.jsx
-      -Home.jsx
-      -Product.jsx
-      -Root.jsx
+src/
+│
+├── components/
+│   └── Nav.jsx
+│
+├── pages/
+│   ├── About.jsx
+│   ├── Home.jsx
+│   ├── Product.jsx
+│   └── Root.jsx
+│
+└── App.jsx
 
 # React + Vite
 
